@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/JamesonRGrieve/aruba-aos/internal/aos"
+	"github.com/JamesonRGrieve/tofu-aruba-aos/internal/aos"
 	"github.com/hashicorp/terraform-plugin-framework/path"
 	"github.com/hashicorp/terraform-plugin-framework/resource"
 	"github.com/hashicorp/terraform-plugin-framework/resource/schema"

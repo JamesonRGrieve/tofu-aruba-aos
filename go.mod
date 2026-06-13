@@ -1,4 +1,4 @@
-module github.com/JamesonRGrieve/aruba-aos
+module github.com/JamesonRGrieve/tofu-aruba-aos
 
 go 1.26.4
 

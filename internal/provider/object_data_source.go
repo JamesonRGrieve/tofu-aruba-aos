@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/JamesonRGrieve/aruba-aos/internal/aos"
+	"github.com/JamesonRGrieve/tofu-aruba-aos/internal/aos"
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/datasource/schema"
 	"github.com/hashicorp/terraform-plugin-framework/types"

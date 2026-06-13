@@ -89,7 +89,7 @@ make check          # tidy + fmt + vet + test + build (pre-commit / CI gate)
 ```
 
 For runners without registry access, install into a filesystem mirror:
-`<plugins>/registry.terraform.io/JamesonRGrieve/aruba-aos/<ver>/<os>_<arch>/terraform-provider-aruba-aos`
+`<plugins>/registry.terraform.io/JamesonRGrieve/tofu-aruba-aos/<ver>/<os>_<arch>/terraform-provider-aruba-aos`
 and point a `.terraformrc` `provider_installation { filesystem_mirror {...} }` at it.
 
 ## License

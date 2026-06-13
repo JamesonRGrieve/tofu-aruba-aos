@@ -9,7 +9,7 @@ package provider
 import (
 	"context"
 
-	"github.com/JamesonRGrieve/aruba-aos/internal/aos"
+	"github.com/JamesonRGrieve/tofu-aruba-aos/internal/aos"
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/provider"
 	"github.com/hashicorp/terraform-plugin-framework/provider/schema"

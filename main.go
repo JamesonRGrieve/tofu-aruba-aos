@@ -9,7 +9,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/JamesonRGrieve/aruba-aos/internal/provider"
+	"github.com/JamesonRGrieve/tofu-aruba-aos/internal/provider"
 	"github.com/hashicorp/terraform-plugin-framework/providerserver"
 )
 

@@ -28,7 +28,7 @@ General Go/provider standards: see `/home/jameson/source/ai-prompts/go.md` (§8)
 General Go/provider standards: see `/home/jameson/source/ai-prompts/go.md` (§7, §10).
 
 - Go 1.26.4 (`/home/jameson/.local/go`), `terraform-plugin-framework` v1.19.0.
-- Provider address: `registry.terraform.io/JamesonRGrieve/aruba-aos`.
+- Provider address: `registry.terraform.io/JamesonRGrieve/tofu-aruba-aos`.
 
 ## Hard rules
 
